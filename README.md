@@ -86,3 +86,35 @@ under 7% attrition — highly stable roles.
 ---
 
 ## 📁 Repository Structure
+
+hr-attrition-analysis/
+
+│
+
+├── Python/
+
+│   └── HR_Attrition_Analysis.ipynb
+
+│
+
+├── Screenshots/
+
+│   ├── dept_attrition.png
+
+│   ├── income_attrition.png
+
+│   ├── age_attrition.png
+
+│   ├── worklife_attrition.png
+
+│   ├── overtime_attrition.png
+
+│   ├── jobrole_attrition.png
+
+│   └── correlation_heatmap.png
+
+│
+
+└── Data/
+
+└── WA_Fn-UseC_-HR-Employee-Attrition.csv
